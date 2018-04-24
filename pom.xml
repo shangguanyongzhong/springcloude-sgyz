@@ -12,6 +12,7 @@
         <module>discover</module>
         <module>person</module>
         <module>ui</module>
+        <module>some</module>
     </modules>
 
     <parent>

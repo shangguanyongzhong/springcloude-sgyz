@@ -8,12 +8,14 @@
         <outputRelativeToContentRoot value="true" />
         <module name="discover" />
         <module name="person" />
+        <module name="some" />
         <module name="ui" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="discover" target="1.8" />
       <module name="person" target="1.8" />
+      <module name="some" target="1.8" />
       <module name="springcloudsgyz" target="1.8" />
       <module name="ui" target="1.8" />
     </bytecodeTargetLevel>

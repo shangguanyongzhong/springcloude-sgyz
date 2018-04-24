@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/discover/discover.iml" filepath="$PROJECT_DIR$/discover/discover.iml" />
       <module fileurl="file://$PROJECT_DIR$/person/person.iml" filepath="$PROJECT_DIR$/person/person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/some/some.iml" filepath="$PROJECT_DIR$/some/some.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudsgyz.iml" filepath="$PROJECT_DIR$/springcloudsgyz.iml" />
       <module fileurl="file://$PROJECT_DIR$/ui/ui.iml" filepath="$PROJECT_DIR$/ui/ui.iml" />
     </modules>
