@@ -12,6 +12,7 @@ import org.springframework.web.client.RestTemplate;
 @SpringBootApplication
 @EnableEurekaClient
 @EnableFeignClients
+@EnableCircuitBreaker
 public class UiApplication {
     public static void main(String[] args) {
         SpringApplication.run(UiApplication.class, args);
